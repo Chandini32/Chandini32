@@ -7,7 +7,6 @@
 - 📫 How to reach me ...?
       https://www.linkedin.com/in/chandini-senapathi-244248187
       https://github.com/Chandini32
-      senapathichandhini30@gmail.com
       
 
 <!---
