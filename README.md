@@ -5,8 +5,11 @@
 - 🌱 I’m currently learning Machine Learning,Full Stack Development,Data Visualization.
 
 - 📫 How to reach me ...?
+- 
       Linkedin : https://www.linkedin.com/in/chandini-senapathi-244248187
+      
       Instagram : https://www.instagram.com/chandini_senapathi/?r=nametag
+      
       Github : https://github.com/Chandini32
       
 
