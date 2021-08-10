@@ -4,9 +4,9 @@
 - 👀 I’m currently pursuing B.Tech 4th year in Computer Science at Gitam Deemed to be University.I am a very enthusiastic student and seeking to explore oppurtunities in Machine Learning,Web Development,Artificial Intelligence,and Data Science to tackle real world problems.I like to receive and deal with challenging tasks.
 
 - 🌱 I’m currently learning 
- * Machine Learning <img height=16 width=16 src="https://static.thenounproject.com/png/2010152-200.png"/> 
-- Full Stack Development,
-- Data Visualization
+ * Machine Learning <img height=16 width=16 src="https://static.thenounproject.com/png/2010152-200.png"/> <img height=16 width=16 src=" https://static.thenounproject.com/png/1927723-200.png"/>
+ * Full Stack Development <img height=16 width=16 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Ll9ksmO0iw5V1OKEzQDOoFdC4Wpqmy8rig&usqp=CAU"/> <img height=16 width=16 src="https://www.pngkit.com/png/detail/310-3104250_related-wallpapers-full-stack-developer-png.png"/>
+ * Data Visualization <img height=16 width=16 src="https://www.incimages.com/uploaded_files/image/1920x1080/getty_518119836_236936.jpg"/> <img height=16 width=16 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKNaLN08pgkyu6V_fwd9JIa9nMEBAdFTHOA&usqp=CAU"/>
 - Cloud Computing
 
 - 📫 How to reach me ...?
