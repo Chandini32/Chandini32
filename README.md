@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning 
  * Machine Learning <img height=16 width=16 src="https://static.thenounproject.com/png/2010152-200.png"/> 
- * Full Stack Development <img height=16 width=16 src="https://cdn2.iconfinder.com/data/icons/web-development1-new-color1-1/128/Web_development_-_1_-White_Source-modify-_Color1-18-512.png"/> 
- * Data Visualization <img height=16 width=16 src="https://e7.pngegg.com/pngimages/307/182/png-clipart-data-visualization-computer-icons-big-data-data-analysis-others-text-cloud.png"/> 
+ * Full Stack Development <img height=16 width=16 src="https://image.flaticon.com/icons/png/512/919/919827.png"/> <img height=16 width=16 src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png"/><img height=16 width=16 src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"/><img height=16 width=16 src="https://image.flaticon.com/icons/png/512/29/29540.png"/>
+ * Data Visualization <img height=16 width=16 src="https://e7.pngegg.com/pngimages/307/182/png-clipart-data-visualization-computer-icons-big-data-data-analysis-others-text-cloud.png"/><img height=16 width=16 src="https://image.flaticon.com/icons/png/512/2306/2306109.png"/>
 - Cloud Computing
 
 - 📫 How to reach me ...?
